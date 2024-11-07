@@ -1,0 +1,15 @@
+# Ignorar arquivos .jar
+*.jar
+
+# Ignorar diretórios de build
+/build/
+/out/
+
+# Ignorar arquivos temporários de IDEs
+.idea/
+*.iml
+.vscode/
+
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
