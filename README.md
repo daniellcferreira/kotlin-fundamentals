@@ -1,4 +1,10 @@
 # Kotlin Fundamentals
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-Linguagem-7F52FF?style=flat-square&logo=kotlin&logoColor=7F52FF" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Gradle-Automação-02303A?style=flat-square&logo=gradle&logoColor=02303A" alt="Gradle">
+  <img src="https://img.shields.io/badge/JUnit-Testes-C21325?style=flat-square&logo=junit5&logoColor=C21325" alt="JUnit">
+</p>
+
 
 Este repositório contém materiais e exemplos do curso **Kotlin Fundamentals**, focado em ensinar os principais conceitos da linguagem Kotlin. Os exemplos e códigos fornecidos seguem boas práticas de desenvolvimento e auxiliam no aprendizado dos tópicos essenciais.
 
